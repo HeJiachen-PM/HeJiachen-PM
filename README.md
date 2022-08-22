@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I am Jiachen, a passionate entrepreneur who founded AFFiNE. 
 
-<!--
-**HeJiachen-PM/HeJiachen-PM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### We are trying to deliver building blocks for modern application makers. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as the product manager of <a href="https://affine.pro" target="blank">AFFiNE</a>.
+
+- 🌱 Also, I am the CEO guy in the team.
+
+- 📝 I sometimes write article on our <a href="https://blog.affine.pro/" target="blank">team blog</a>. If you see anyone with the name "Enther" on Twitter or other places, that is likely to be me.
+
+- 💬 Ask me about "how-tos" and feature requests, or other things related to AFFiNE, knowledge management or running a startup.
+
+- 📫 How to reach me **jiachenhe@toeverything.info**
+
+- 📄 Do let me know if you also like to play StarCraft II.
+
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeJiachen-PM&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
+Last Edited on: 08/22/2022
