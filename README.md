@@ -12,7 +12,7 @@
 
 - 💬 Ask me about "how-tos" and feature requests, or other things related to AFFiNE, knowledge management or running a startup.
 
-- 📫 How to reach me **jiachenhe@toeverything.info**
+- 📫 How to reach me **hejiachen@toeverything.info**
 
 - 📄 Do let me know if you also like to play StarCraft II.
 
