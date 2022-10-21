@@ -10,7 +10,7 @@
 
 - 📝 I sometimes write article on our <a href="https://blog.affine.pro/" target="blank">team blog</a>. If you see anyone with the name "Enther" on Twitter or other places, that is likely to be me.
 
-- 💬 Ask me about "how-tos" and feature requests, or other things related to AFFiNE, knowledge management or running a startup.
+- 💬 Ask me about "how-tos" and things related to AFFiNE, knowledge management or running a startup.
 
 - 📫 How to reach me **hejiachen@toeverything.info**
 
